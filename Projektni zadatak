@@ -1,0 +1,13 @@
+Kreirati grafički korisnički interfejs (GUI) za adekvatan prikaz (3D/2D) loksodrome i ortodrome.		
+"Kroz GUI omogućiti sledeće funkcionalnosti:
+•        unos dve proizvoljno unesene tačke (zadate preko geografskih ili 3D pravougle koordinata)
+•        unos proizvoljanog azimuta preko input polja
+•        računanje ortodrome primenom sva tri metoda aproksimacije elipsoida sferom.""
+•        dve proizvoljno unesene paralele i dva proizvoljna meridijana 
+•        omogućiti odabir različitih elipsoida (preko padajućeg menija) ili definisanje novog elipsoida zadavanjem proizvoljnih parametara velike i male poluose
+•        obezbediti naglašavanje nekog od elemenata koji se prikazuju (npr. promena debljine, stila ili  boje...)
+•        omogućiti uključivanje i isključivanje odgovarajućih labela u grafičkom prikazu pomoću chekbox-a
+•        čuvanje krajnjeg prikaza u jedan od sledećih slikovnih formata: .png, .jpg, .tiff
+Implementaciju izvršiti kroz jedan od sledećih programskih jezika (okruženja):
+•        MatLAB, Python, Java
+"		
